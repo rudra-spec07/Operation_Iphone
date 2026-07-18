@@ -8,7 +8,7 @@ const Success = () => {
 
   const buyAnyway = () => {
     window.open(
-      "https://www.apple.com/in/iphone/",
+      "https://dl.flipkart.com/s/j9_5cluuuN",
       "_blank"
     );
   };
